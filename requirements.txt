@@ -3,7 +3,8 @@ transformers[sentencepiece]
 datasets
 sacrebleu 
 rouge_score 
-py7zr
+clear
+
 pandas
 nltk
 tqdm
